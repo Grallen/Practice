@@ -4,7 +4,7 @@
 #
 # class Database(metaclass=SingletonMeta):
 #     pass
-
+#
 # db1 = Database()
 # db2 = Database()
 # assert db1 is db2
