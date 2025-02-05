@@ -5,7 +5,7 @@
 # @retry(3)
 # def unstable_function():
 #     # Raises an error randomly
-
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 def retry(x):
     def deco(func):
